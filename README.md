@@ -1,3 +1,2 @@
 # IA---Robotics
-
-yanis
+Different implementations of different Machine Learning Algorithms
